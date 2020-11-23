@@ -1,5 +1,6 @@
 .user-component {
   justify-content: space-between;
+  margin:10px 0;
 }
 
 .user-component,
@@ -52,3 +53,4 @@
   margin-bottom: 10px;
   display: block;
 }
+
